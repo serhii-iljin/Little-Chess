@@ -1,2 +1,2 @@
 # Little-Chess
-Little SFML chess game that uses stockfish as game engine. 
+Little SFML chess application that uses stockfish as game engine. 
